@@ -1,4 +1,4 @@
-#Project01: Supplement Sales Analysis: Trends and Insights (2020-2025)
+## Project01: Supplement Sales Analysis: Trends and Insights (2020-2025)
 This project involved a comprehensive analysis of the "Supplement Sales Analysis: 
 Trends and Insights (2020-2025)" dataset (Kaggle) using Python's Pandas and Matplotlib libraries. 
 The objective was to extract meaningful insights into overall business trends, product category performance,
