@@ -96,3 +96,5 @@ bar_value_returned.plot(kind = 'bar', title = 'Product Category Return Value', c
 plt.show()
 ```
 ![image](https://github.com/user-attachments/assets/829ac8b0-942e-449c-9439-ac28bcf7f72c)
+
+## Full Report in Looker Studio
