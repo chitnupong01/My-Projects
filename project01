@@ -1,5 +1,8 @@
 #Project01: Supplement Sales Analysis: Trends and Insights (2020-2025)
-This project involved a comprehensive analysis of the "Supplement Sales Analysis: Trends and Insights (2020-2025)" dataset (Kaggle) using Python's Pandas and Matplotlib libraries. The objective was to extract meaningful insights into overall business trends, product category performance, and the impact of returns, among other factors. The analytical findings highlight potential areas for strategic business development and future planning.
+This project involved a comprehensive analysis of the "Supplement Sales Analysis: 
+Trends and Insights (2020-2025)" dataset (Kaggle) using Python's Pandas and Matplotlib libraries. 
+The objective was to extract meaningful insights into overall business trends, product category performance,
+and the impact of returns, among other factors. The analytical findings highlight potential areas for strategic business development and future planning.
 
 Note: This project was developed independently to enhance my practical skills and serves as a portfolio piece, leveraging a free dataset from Kaggle.
 
