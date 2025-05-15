@@ -221,7 +221,10 @@ FROM Global_EV_Charging_Behavior_2024
 GROUP BY Country
 ORDER BY avg_sta_utl_rate DESC;
 ```
-
+# Project Report
+I created the report for this project using Power BI. You can view an overview of the report at this link. 
+https://chitnupong.wordpress.com/?p=1155&preview=true&_thumbnail_id=1167
+KhobKhunKub.
 
 
 
